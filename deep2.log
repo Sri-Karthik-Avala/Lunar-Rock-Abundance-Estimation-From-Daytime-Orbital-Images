@@ -1,0 +1,7 @@
+channels ready (8000, 100, 100) (8000, 100, 100) (8000, 100, 100)
+  [fft1ch] fold 1/3 done
+  [fft1ch] fold 2/3 done
+  [fft1ch] fold 3/3 done
+[fft1ch] pooled=0.3532 worst2=0.0473 metric=0.1238 all=[-0.03, 0.13, 0.23, 0.23, 0.31, 0.33, 0.35, 0.35, 0.38, 0.39]
+  [raw+hp+fft] fold 1/3 done
+  [raw+hp+fft] fold 2/3 done

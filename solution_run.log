@@ -1,0 +1,13 @@
+[convnext_tiny] fold 0/5 start
+[convnext_tiny] fold 1/5 start
+[convnext_tiny] fold 2/5 start
+[convnext_tiny] fold 3/5 start
+[convnext_tiny] fold 4/5 start
+[convnext_tiny] OOF resid-corr 0.8040
+[convnext_small] fold 0/4 start
+[convnext_small] fold 1/4 start
+[convnext_small] fold 2/4 start
+[convnext_small] fold 3/4 start
+[convnext_small] OOF resid-corr 0.8014
+AUTO-WEIGHT [0.55 0.45] -> ensemble OOF resid-corr 0.8087
+wrote working/submission.csv (4000, 2)

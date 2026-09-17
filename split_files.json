@@ -1,0 +1,14 @@
+{
+ "note": "parts are consecutive byte ranges; run reassemble_split_files.py",
+ "files": [
+  {
+   "path": "patches.npy",
+   "size": 120000128,
+   "sha256": "6eb5dfb000cb8494b86b8007dcb8c3ea29d811933314d37080eb4e852c10759a",
+   "parts": [
+    "patches.npy.part000",
+    "patches.npy.part001"
+   ]
+  }
+ ]
+}

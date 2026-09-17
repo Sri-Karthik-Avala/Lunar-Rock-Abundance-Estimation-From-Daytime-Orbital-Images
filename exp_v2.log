@@ -1,0 +1,10 @@
+region sizes [1571  407  255 1715  565  424  720 1029 1233   81]
+  [global] fold 1/3 done
+  [global] fold 2/3 done
+  [global] fold 3/3 done
+[global strong=False] pooled=0.2361 worst2=0.0002 metric=0.0592 regions=[-0.13, 0.13, 0.14, 0.15, 0.19, 0.22, 0.3, 0.38, 0.45, 0.49]
+  [2ch] fold 1/3 done
+  [2ch] fold 2/3 done
+  [2ch] fold 3/3 done
+[2ch strong=True] pooled=0.3091 worst2=-0.1069 metric=0.0773 regions=[-0.16, -0.06, 0.25, 0.29, 0.31, 0.34, 0.38, 0.43, 0.46, 0.47]
+elapsed min 8.0
